@@ -14,3 +14,6 @@ Dlib
 
 # Contribution
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+
+
+You can download the shape_predictor_68_face_landmarks.dat file from GitHub and place it in the project directory.
